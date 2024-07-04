@@ -1,0 +1,228 @@
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\TareasPendientesWebApi.dll.config
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\TareasPendientesWebApi.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\TareasPendientesWebApi.pdb
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\csc.exe
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\csc.exe.config
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\csc.rsp
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\csi.exe
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\csi.exe.config
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\csi.rsp
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\System.Buffers.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\System.Memory.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\System.Numerics.Vectors.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\vbc.exe
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\vbc.exe.config
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\vbc.rsp
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\VBCSCompiler.exe
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Antlr3.Runtime.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\EntityFramework.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\EntityFramework.SqlServer.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Newtonsoft.Json.Bson.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Newtonsoft.Json.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Buffers.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Memory.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Net.Http.Formatting.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Numerics.Vectors.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Text.Encodings.Web.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Text.Json.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Threading.Tasks.Extensions.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.ValueTuple.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Web.Helpers.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Web.Http.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Web.Http.WebHost.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Web.Mvc.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Web.Optimization.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Web.Razor.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Web.WebPages.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Web.WebPages.Razor.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\WebGrease.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\EntityFramework.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\EntityFramework.SqlServer.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Newtonsoft.Json.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Newtonsoft.Json.Bson.pdb
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Newtonsoft.Json.Bson.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Buffers.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Memory.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Net.Http.Formatting.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Numerics.Vectors.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Text.Encodings.Web.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Text.Json.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Threading.Tasks.Extensions.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.ValueTuple.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Web.Helpers.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Web.Http.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Web.Http.WebHost.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Web.Mvc.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Web.Razor.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Web.WebPages.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Web.WebPages.Razor.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\System.Web.Optimization.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\Antlr3.Runtime.pdb
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\es\System.Web.Helpers.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\es\System.Web.Http.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\es\System.Web.Mvc.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\es\System.Web.Razor.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\es\System.Web.WebPages.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\bin\es\System.Web.Optimization.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\obj\Debug\TareasPendientesWebApi.csproj.AssemblyReference.cache
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\obj\Debug\TareasPendientesWebApi.Migrations.InitialCreate.resources
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\obj\Debug\TareasPendientesWebApi.csproj.GenerateResource.cache
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\obj\Debug\TareasPendientesWebApi.csproj.CoreCompileInputs.cache
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\obj\Debug\TareasPendientesWebApi.csproj.CopyComplete
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\obj\Debug\TareasPendientesWebApi.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi - copia\TareasPendientesWebApi\obj\Debug\TareasPendientesWebApi.pdb
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\TareasPendientesWebApi.dll.config
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\TareasPendientesWebApi.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\TareasPendientesWebApi.pdb
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\csc.exe
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\csc.exe.config
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\csc.rsp
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\csi.exe
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\csi.exe.config
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\csi.rsp
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\System.Buffers.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\System.Memory.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\System.Numerics.Vectors.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\vbc.exe
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\vbc.exe.config
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\vbc.rsp
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\VBCSCompiler.exe
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Antlr3.Runtime.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\EntityFramework.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\EntityFramework.SqlServer.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Microsoft.IdentityModel.Logging.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Microsoft.IdentityModel.Tokens.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Newtonsoft.Json.Bson.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Newtonsoft.Json.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Buffers.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Memory.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Net.Http.Formatting.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Numerics.Vectors.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Text.Encodings.Web.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Text.Json.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Threading.Tasks.Extensions.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.ValueTuple.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Web.Helpers.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Web.Http.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Web.Http.WebHost.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Web.Mvc.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Web.Optimization.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Web.Razor.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Web.WebPages.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Web.WebPages.Razor.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\WebGrease.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\EntityFramework.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\EntityFramework.SqlServer.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Microsoft.IdentityModel.Logging.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Microsoft.IdentityModel.Tokens.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Newtonsoft.Json.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Newtonsoft.Json.Bson.pdb
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Newtonsoft.Json.Bson.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Buffers.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Memory.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Net.Http.Formatting.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Numerics.Vectors.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Text.Encodings.Web.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Text.Json.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Threading.Tasks.Extensions.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.ValueTuple.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Web.Helpers.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Web.Http.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Web.Http.WebHost.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Web.Mvc.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Web.Razor.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Web.WebPages.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Web.WebPages.Razor.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\System.Web.Optimization.xml
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\Antlr3.Runtime.pdb
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\es\System.Web.Helpers.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\es\System.Web.Http.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\es\System.Web.Mvc.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\es\System.Web.Razor.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\es\System.Web.WebPages.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\bin\es\System.Web.Optimization.resources.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\obj\Debug\TareasPendientesWebApi.csproj.AssemblyReference.cache
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\obj\Debug\TareasPendientesWebApi.Migrations.InitialCreate.resources
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\obj\Debug\TareasPendientesWebApi.csproj.GenerateResource.cache
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\obj\Debug\TareasPendientesWebApi.csproj.CoreCompileInputs.cache
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\obj\Debug\TareasPendientesWebApi.csproj.CopyComplete
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\obj\Debug\TareasPendientesWebApi.dll
+C:\respos\CLAUDIO_HIDALGO\TareasPendientesWebApi\TareasPendientesWebApi\obj\Debug\TareasPendientesWebApi.pdb
